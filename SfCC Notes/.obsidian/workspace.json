@@ -6,7 +6,7 @@
       {
         "id": "d592f71116bcb040",
         "type": "tabs",
-        "dimension": 57.05128205128205,
+        "dimension": 57.179487179487175,
         "children": [
           {
             "id": "bb67f5ed23c89848",
@@ -27,7 +27,7 @@
       {
         "id": "939553815d181a83",
         "type": "tabs",
-        "dimension": 42.94871794871795,
+        "dimension": 42.82051282051282,
         "children": [
           {
             "id": "2f8adbb4055ba673",
@@ -112,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Week 2 - Using the terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Week 2 - Using the terminal"
             }
           },
           {
@@ -130,11 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Week 2 - Using the terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Week 2 - Using the terminal"
             }
           },
           {
@@ -158,12 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Week 2 - Using the terminal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Week 2 - Using the terminal"
             }
           }
         ]
@@ -184,7 +187,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "2f8adbb4055ba673",
+  "active": "bb67f5ed23c89848",
   "lastOpenFiles": [
     "Week 2 - Using the terminal.md",
     "9.10.2025.md"

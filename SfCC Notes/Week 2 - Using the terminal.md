@@ -25,7 +25,20 @@ nano {FileName} - Edit File (Text only)
 wc {Text} - Word Count
 date - Output (Long) Date + Time
 {Text} >> {FileName} - Append Text to File
-
+chmod {Permission} {FileName} - Change Mode
+	- +x - Executable
+./{FileName} - Run executable
 ```
 
-cmd + shift + H (Finder) - Home Folder 
+
+```Bash
+#!/bin/bash
+
+# This is a Script to create a folder and populate it
+
+mkdir library_project
+cd library_project
+touch library.txt
+date >> library.txt
+echo 'All finished!'
+```
