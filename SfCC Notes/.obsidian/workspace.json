@@ -6,6 +6,7 @@
       {
         "id": "d592f71116bcb040",
         "type": "tabs",
+        "dimension": 57.05128205128205,
         "children": [
           {
             "id": "bb67f5ed23c89848",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 2.md",
+                "file": "Week 2 - Using the terminal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 2"
+              "title": "Week 2 - Using the terminal"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "939553815d181a83",
         "type": "tabs",
+        "dimension": 42.94871794871795,
         "children": [
           {
             "id": "2f8adbb4055ba673",
@@ -94,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2b86d1f61a420bb2",
@@ -184,7 +186,7 @@
   },
   "active": "2f8adbb4055ba673",
   "lastOpenFiles": [
-    "Week 2.md",
+    "Week 2 - Using the terminal.md",
     "9.10.2025.md"
   ]
 }
