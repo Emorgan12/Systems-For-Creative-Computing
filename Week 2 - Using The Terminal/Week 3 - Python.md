@@ -1,0 +1,4 @@
+- Must type python3 in terminal (Mac Only)
+- Ctrl + D - End of file (Returns to shell)
+- python3 -m pip install {packageName}
+- 
